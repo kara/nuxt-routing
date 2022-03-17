@@ -5,6 +5,8 @@
       <NuxtLink to="/docs">Docs</NuxtLink>
       <NuxtLink to="/learn">Learn</NuxtLink>
     </nav>
+    <p>This is the home page.</p>
+    <a href="https://www.google.com">External link to google.com</a>
   </div>
 </template>
 
